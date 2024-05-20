@@ -31,7 +31,7 @@ TUICallKit is a video and audio communication component built on Tencent Cloud's
 
 ## Demo
 
-View demo of Project <a href=<a href="https://medium.com/@nelson.antonio.an/building-a-flutter-video-call-application-using-tencent-sdk-486744b3f8a6">Here </a> >Here </a> 
+View demo of Project <a href="https://medium.com/@nelson.antonio.an/building-a-flutter-video-call-application-using-tencent-sdk-486744b3f8a6">Here </a> 
 
 ## Article
 I published an article on Medium on how to setup and build a flutter videocall application. 
